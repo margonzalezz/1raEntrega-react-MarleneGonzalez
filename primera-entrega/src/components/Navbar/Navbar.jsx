@@ -3,7 +3,7 @@ const Navbar = () => {
     return <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
                 {/* BRAND */}
-                <a className="navbar-brand" href="#"> Coffee House </a>
+                <a className="navbar-brand border p-3 bg-warning" href="#"> Coffee House </a>
                 {/* LINKS */}
                 <ul className="navbar-nav me-4">
                     <li className="navbar-item">
